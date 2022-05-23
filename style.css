@@ -1,36 +1,4 @@
-/*header*/
-.header {
-    background-color: black;
-    height: 100px;
-}
-
-.header a {
-    color: white;
-    float: right;
-    padding: 5px;
-}
-
-.header a:hover {
-    color: brown;
-}
-
 /* body */
 .links:hover {
-    color: brown;
-}
-
-/* footer */
-.footer {
-    background-color: black;
-    height: 50px;
-}
-
-.copyright {
-    padding-top: 15px;
-    padding-left: 5px;
-    color: white;
-}
-
-.copyright:hover {
     color: brown;
 }
