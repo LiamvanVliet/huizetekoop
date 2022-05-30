@@ -12,4 +12,14 @@
 .infoForUs {
     float: right;
     margin-right: 20px;
+    text-align: center;
+}
+
+.infoFotos {
+    width: 200px;
+    margin: 30px;
+}
+
+#head {
+    text-align: center;
 }
