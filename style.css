@@ -70,3 +70,11 @@
     transition: all 200ms ease-in;
     transform: scale(1.5);
 }
+.text{
+    position: relative;
+    height: 600px;
+    width: 400px;
+    left: 55%;
+
+    margin-top: -34%;
+}
